@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a tech company's brand with a modern, animated hero section featuring light and dark modes and a user-friendly navigation bar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
