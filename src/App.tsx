@@ -50,9 +50,9 @@ export default function App() {
           </div>
 
           <h1>
-            Turn early traction
+            Sb Yusuf is a
             <br />
-            into <em>real momentum.</em>
+            Webflow <em>Developer</em>
           </h1>
 
           <p>
